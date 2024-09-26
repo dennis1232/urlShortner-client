@@ -63,8 +63,6 @@ Now let’s get the app running. Start the development server by running:
 
 ```bash
 npm start
-# or if you're using yarn
-yarn start
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser, and you should see the app in action.
